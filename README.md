@@ -7,10 +7,10 @@ Security Hub is region-specific, which means you need to turn it on and configur
 Ingest all the SecurityHub findings returned by SecurityHub API, ingests only fresh findings based on the LastObservedAt timestamp
 
 ## Deploy AWS SecurityHub Data connector
- <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fandedevsecops%2FAWS-Security-Hub-Data-Connector%2Fmain%2Fazuredeploy_dotcomtenants.json" target="_blank">
+ <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmatt1t%2FAWS-Security-Hub-Data-Connector%2Fmain%2Fazuredeploy_dotcomtenants.json" target="_blank">
     <img src="https://aka.ms/deploytoazurebutton"/>
     </a>
-<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fandedevsecops%2FAWS-Security-Hub-Data-Connector%2Fmain%2Fazuredeploy_dotustenants.json" target="_blank">
+<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmatt1t%2FAWS-Security-Hub-Data-Connector%2Fmain%2Fazuredeploy_dotustenants.json" target="_blank">
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"/>
 </a>
 

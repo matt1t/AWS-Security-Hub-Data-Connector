@@ -169,7 +169,7 @@
 						"Schedule":"0 */10 * * * *",
 						"FreshEventTimeStamp":"10",
 						"SecurityHubFilters":"{'SeverityLabel': [{'Value': 'HIGH', 'Comparison': 'EQUALS'},{'Value': 'CRITICAL', 'Comparison': 'EQUALS'},],'RecordState': [{'Value': 'ACTIVE', 'Comparison': 'EQUALS'}]}",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/andedevsecops/AWS-Security-Hub-Data-Connector/blob/main/AzFunAWSSecurityHubIngestion.zip?raw=true"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/matt1t/AWS-Security-Hub-Data-Connector/blob/main/AzFunAWSSecurityHubIngestion.zip?raw=true"
                     }
                 }
             ]
